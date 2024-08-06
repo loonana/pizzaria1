@@ -1,8 +1,8 @@
-import mussarela from "../assets/images/pizza-mussarela.jpeg"
-import calabresa from "../assets/images/pizza-calabresa2.jpeg"
-import atum from "../assets/images/pizza-atum.jpeg"
-import portuguesa from "../assets/images/pizza-portuguesa.jpeg"
-import frango from "../assets/images/pizza-frango.jpeg"
+import mussarela from "../assets/images/pizza-mussarela.jpg";
+import calabresa from "../assets/images/pizza-calabresa4.jpg";
+import atum from "../assets/images/pizza-atum.jpg";
+import portuguesa from "../assets/images/pizza-portuguesa.jpg";
+import frango from "../assets/images/pizza-frango.jpg";
 
 const Pizzas = [
     {
